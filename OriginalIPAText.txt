@@ -1,0 +1,44 @@
+Zscaler - /ˈziː.skeɪ.lər/
+ZIA (Zscaler Internet Access) - /ˈziː ˈaɪ ˈeɪ/
+ZPA (Zscaler Private Access) - /ˈziː ˈpiː ˈeɪ/
+Firewall - /ˈfaɪərˌwɔːl/
+VPN (Virtual Private Network) - /ˌviːˌpiːˈɛn/
+SSL (Secure Sockets Layer) - /ˈɛs ˈɛs ˈɛl/
+Proxy - /ˈprɒk.si/
+Malware - /ˈmæl.wɛər/
+Policy Enforcement - /ˈpɒlɪsi ɪnˈfɔːsmənt/
+Threat Prevention - /θrɛt prɪˈvɛnʃən/
+Cloud Sandbox - /klaʊd ˈsændˌbɒks/
+SSH (Secure Shell) - /ˈɛs ˈɛs ˈeɪtʃ/
+Syslog - /ˈsɪsˌlɔg/
+Nanolog - /ˈnæn.oʊˌlɔg/
+NSS Server - /ˈɛn ˈɛs ˈɛs ˈsɜːrvər/
+SOC (Security Operations Center) - /ˈɛs oʊ ˈsiː/ or spell out as /ˌsɛk.jʊˈrɪ.ti ˌɒp.əˈreɪ.ʃənz ˈsɛn.tər/
+BotNet - /ˈbɒtˌnɛt/
+Pretexting - /ˈpriːˌtɛkstɪŋ/
+Unified Threat Management (UTM) - /juːˈnaɪ.fɪd ˈθrɛt ˈmænɪdʒmənt/
+HIPAA - /ˈhɪpə/
+SSPM (SaaS Security Posture Management) - /ˈɛs ˈɛs ˈpiː ˈɛm/
+Crypto Jacking - /ˈkrɪp.toʊ ˈdʒækɪŋ/
+Smishing (SMS Phishing) - /ˈsmɪʃɪŋ/
+Threat Hunting - /θrɛt ˈhʌntɪŋ/
+Threat Intelligence - /θrɛt ɪnˈtɛlɪdʒəns/
+Zero Trust - /ˈzɪəroʊ ˈtrʌst/
+Exact Data Match (EDM) - /ˈɛgzækt ˈdeɪtə mætʃ/
+Data Loss Protection (DLP) - /ˈdeɪtə lɔːs prəˈtɛkʃən/
+Social Security Number (SSN) - /ˈsoʊʃəl sɪˈkjʊrɪti ˈnʌmbər/
+General Data Protection Regulation (GDPR) - /ˈdʒɛnərəl ˈdeɪtə prəˈtɛkʃən ˌrɛɡjʊˈleɪʃən/
+Ransomware - /ˈræn.səmˌwɛər/
+IoT (Internet of Things) - /ˌaɪ oʊ ˈtiː/
+SD-WAN (Software-Defined Wide Area Network) - /ˌɛs ˈdiː ˈwæn/
+MPLS (Multiprotocol Label Switching) - /ˌɛm ˈpiː ˈɛl ˈɛs/
+Data Security Posture Management - /ˈdeɪtə sɪˈkjʊrɪti ˈpɒs.tʃər ˈmænɪdʒmənt/
+Endpoint Detection and Response (EDR) - /ˈɛnd.pɔɪnt dɪˈtɛkʃən ænd rɪˈspɒns/
+ZTNA (Zero Trust Network Access) - /ˈziː ˈtiː ˈɛn ˈeɪ/
+IEC 62443 - /ˌaɪ iː ˈsiː sɪksˌtuː fɔː ˈfɔːrˈθriː/
+Cyberthreat Protection - /ˈsaɪ.bərˌθrɛt prəˈtɛkʃən/
+Security as a Service (Secas) - /sɪˈkjʊərɪti æz ə ˈsɜːrvɪs/
+IaC (Infrastructure as Code) - /ˌaɪ eɪ ˈsiː/
+URL Filtering - /ˌjuː ˈɑːr ˈɛl ˈfɪltərɪŋ/
+Remote Access - /rɪˈmoʊt ˈæksɛs/
+Denial of Service Attack - /dɪˈ
